@@ -1,0 +1,6 @@
+psycopg2
+python-dotenv
+geopy
+requests
+pandas
+retry-requests
